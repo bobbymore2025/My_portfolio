@@ -4147,3 +4147,8 @@ input, select, textarea {
 		}
 
 	}
+	@media screen and (max-width: 600px) and (orientation: portrait) {
+		#nav1 {
+			max-height: 70px;
+		}
+	}
