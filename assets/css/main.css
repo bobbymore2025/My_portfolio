@@ -4147,18 +4147,12 @@ input, select, textarea {
 		}
 
 	}
-	@media screen and (max-width: 736px) and (orientation: landscape) {
-
-		#nav1 {
-			padding: 100px ;
-		}
-
-	}
+	
 
 	@media screen and (max-width: 736px) and (orientation: portrait) {
 
 		#nav1 {
-			padding: 100px;
+			padding: 20px;
 		}
 
 	}
