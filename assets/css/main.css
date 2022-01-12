@@ -4145,14 +4145,14 @@ input, select, textarea {
 		#footer {
 			padding: 3em 1.5em 1em 1.5em ;
 		}
+		#nav1 {
+			padding: 30px;
+		}
 
 	}
 	
 
 	@media screen and (max-width: 736px) and (orientation: portrait) {
 
-		#nav1 {
-			padding: 20px;
-		}
-
+	
 	}
